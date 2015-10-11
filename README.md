@@ -6,4 +6,4 @@ Dependencies:
 
 1. Wire: Comes with Arduino IDE
 
-2. FreqCount: github.com/PaulStoffregen/FreqCount
+2. FreqCount: https://github.com/PaulStoffregen/FreqCount
